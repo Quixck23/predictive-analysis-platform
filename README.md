@@ -1,1 +1,1 @@
-# Predictive Analysis platform
+# Predictive Analysis Platform
